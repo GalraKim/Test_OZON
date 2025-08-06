@@ -1,0 +1,112 @@
+[
+  {
+    "order_id": "123456",
+    "status": "processing",
+    "date": "2024-06-01T14:49:00",
+    "amount": 4522.19,
+    "customer": {
+      "id": "c1",
+      "region": "Kazan"
+    }
+  },
+  {
+    "order_id": "123457",
+    "status": "cancelled",
+    "date": "2024-06-01T15:02:00",
+    "amount": 1220.97,
+    "customer": {
+      "id": "c2",
+      "region": "Kazan"
+    }
+  },
+  {
+    "order_id": "123458",
+    "status": "processing",
+    "date": "2024-06-01T13:55:00",
+    "amount": 4882.19,
+    "customer": {
+      "id": "c3",
+      "region": "Yekaterinburg"
+    }
+  },
+  {
+    "order_id": "123459",
+    "status": "processing",
+    "date": "2024-06-01T16:51:00",
+    "amount": 987.59,
+    "customer": {
+      "id": "c4",
+      "region": "Kazan"
+    }
+  },
+  {
+    "order_id": "123460",
+    "status": "delivered",
+    "date": "2024-06-01T12:56:00",
+    "amount": 904.93,
+    "customer": {
+      "id": "c5",
+      "region": "Moscow"
+    }
+  },
+  {
+    "order_id": "123461",
+    "status": "delivered",
+    "date": "2024-06-01T14:37:00",
+    "amount": 3650.54,
+    "customer": {
+      "id": "c6",
+      "region": "Saint Petersburg"
+    }
+  },
+  {
+    "order_id": "123462",
+    "status": "delivered",
+    "date": "2024-06-01T13:47:00",
+    "amount": 604.9,
+    "customer": {
+      "id": "c7",
+      "region": "Saint Petersburg"
+    }
+  },
+  {
+    "order_id": "123463",
+    "status": "cancelled",
+    "date": "2024-06-01T14:13:00",
+    "amount": 1302.3,
+    "customer": {
+      "id": "c8",
+      "region": "Novosibirsk"
+    }
+  },
+  {
+    "order_id": "123464",
+    "status": "processing",
+    "date": "2024-06-01T14:26:00",
+    "amount": 1790.47,
+    "customer": {
+      "id": "c9",
+      "region": "Kazan"
+    }
+  },
+  {
+    "order_id": "123465",
+    "status": "processing",
+    "date": "2024-06-01T14:38:00",
+    "amount": 2504.18,
+    "customer": {
+      "id": "c10",
+      "region": "Novosibirsk"
+    }
+  },
+  {
+    "order_id": "1234777765",
+    "status": "processing",
+    "date": "2024-06-01T14:38:00",
+    "amount": 2504.18,
+    "customer": {
+      "id": "c10",
+      "region": "Novosibirsk"
+    }
+  }
+]

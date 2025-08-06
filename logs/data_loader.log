@@ -1,0 +1,166 @@
+2025-08-06 19:57:57,507 - INFO - Starting data loading process
+2025-08-06 19:57:57,507 - INFO - Connecting to DB postgres on localhost:5432
+2025-08-06 19:57:57,541 - INFO - Database ozon_orders already exists
+2025-08-06 19:57:57,541 - INFO - DB connection closed
+2025-08-06 19:57:57,541 - INFO - Connecting to DB ozon_orders on localhost:5432
+2025-08-06 19:57:57,577 - INFO - Table 'orders' already exists
+2025-08-06 19:57:57,577 - INFO - DB connection closed
+2025-08-06 19:57:57,577 - INFO - Starting to load data from file ozon_orders.json
+2025-08-06 19:57:57,577 - INFO - Data loaded successfully. Record count: 10
+2025-08-06 19:57:57,577 - INFO - Connecting to DB ozon_orders on localhost:5432
+2025-08-06 19:57:57,715 - INFO - Order with ID 123456 already exists in DB. Skipping.
+2025-08-06 19:57:57,715 - INFO - Order with ID 123457 already exists in DB. Skipping.
+2025-08-06 19:57:57,716 - INFO - Order with ID 123458 already exists in DB. Skipping.
+2025-08-06 19:57:57,716 - INFO - Order with ID 123459 already exists in DB. Skipping.
+2025-08-06 19:57:57,716 - INFO - Order with ID 123460 already exists in DB. Skipping.
+2025-08-06 19:57:57,716 - INFO - Order with ID 123461 already exists in DB. Skipping.
+2025-08-06 19:57:57,717 - INFO - Order with ID 123462 already exists in DB. Skipping.
+2025-08-06 19:57:57,717 - INFO - Order with ID 123463 already exists in DB. Skipping.
+2025-08-06 19:57:57,717 - INFO - Order with ID 123464 already exists in DB. Skipping.
+2025-08-06 19:57:57,717 - INFO - Order with ID 123465 already exists in DB. Skipping.
+2025-08-06 19:57:57,717 - INFO - Data successfully loaded into DB. Processed records: 0. Skipped duplicates: 10
+2025-08-06 19:57:57,718 - INFO - DB connection closed
+2025-08-06 19:57:57,718 - INFO - Data loading process completed successfully. Processed: 0, Skipped duplicates: 10
+2025-08-06 20:03:55,891 - INFO - Starting data loading process
+2025-08-06 20:03:55,891 - INFO - Connecting to DB postgres on localhost:5432
+2025-08-06 20:03:55,922 - INFO - Database ozon_orders already exists
+2025-08-06 20:03:55,922 - INFO - DB connection closed
+2025-08-06 20:03:55,922 - INFO - Connecting to DB ozon_orders on localhost:5432
+2025-08-06 20:03:55,960 - INFO - Table 'orders' already exists
+2025-08-06 20:03:55,960 - INFO - DB connection closed
+2025-08-06 20:03:55,960 - INFO - Starting to load data from file ozon_orders.json
+2025-08-06 20:03:55,960 - INFO - Data loaded successfully. Record count: 11
+2025-08-06 20:03:55,960 - INFO - Connecting to DB ozon_orders on localhost:5432
+2025-08-06 20:03:55,989 - INFO - Order with ID 123456 already exists in DB. Skipping.
+2025-08-06 20:03:55,990 - INFO - Order with ID 123457 already exists in DB. Skipping.
+2025-08-06 20:03:55,990 - INFO - Order with ID 123458 already exists in DB. Skipping.
+2025-08-06 20:03:55,990 - INFO - Order with ID 123459 already exists in DB. Skipping.
+2025-08-06 20:03:55,990 - INFO - Order with ID 123460 already exists in DB. Skipping.
+2025-08-06 20:03:55,990 - INFO - Order with ID 123461 already exists in DB. Skipping.
+2025-08-06 20:03:55,991 - INFO - Order with ID 123462 already exists in DB. Skipping.
+2025-08-06 20:03:55,991 - INFO - Order with ID 123463 already exists in DB. Skipping.
+2025-08-06 20:03:55,991 - INFO - Order with ID 123464 already exists in DB. Skipping.
+2025-08-06 20:03:55,991 - INFO - Order with ID 123465 already exists in DB. Skipping.
+2025-08-06 20:03:55,996 - WARNING - Cannot convert date: 2024-06-01T14:38:00. Using original string.
+2025-08-06 20:03:55,998 - INFO - Data successfully loaded into DB. Processed records: 1. Skipped duplicates: 10
+2025-08-06 20:03:55,998 - INFO - DB connection closed
+2025-08-06 20:03:55,998 - INFO - Data loading process completed successfully. Processed: 1, Skipped duplicates: 10
+2025-08-06 20:12:12,322 - INFO - Starting data loading process
+2025-08-06 20:12:12,322 - INFO - Connecting to DB postgres on localhostdd:5432
+2025-08-06 20:12:14,611 - ERROR - Error checking/creating database: could not translate host name "localhostdd" to address: Name or service not known
+
+2025-08-06 20:12:14,611 - CRITICAL - Critical error in data loading process: could not translate host name "localhostdd" to address: Name or service not known
+
+2025-08-06 21:00:36,697 - INFO - Database credentials was loaded from .env
+2025-08-06 21:00:44,297 - INFO - Database credentials was loaded from .env
+2025-08-06 21:00:44,297 - INFO - Connecting to  localhost:5432
+2025-08-06 21:02:05,317 - INFO - Database credentials was loaded from .env
+2025-08-06 21:04:12,132 - INFO - Database credentials was loaded from .env
+2025-08-06 21:04:12,132 - INFO - Connecting to localhost:5432
+2025-08-06 21:04:55,582 - INFO - Database credentials was loaded from .env
+2025-08-06 21:04:55,582 - INFO - Connecting to localhost:5432
+2025-08-06 21:09:14,753 - INFO - Database credentials was loaded from .env
+2025-08-06 21:09:14,753 - INFO - Connecting to localhost:5432
+2025-08-06 21:11:03,082 - INFO - Database credentials was loaded from .env
+2025-08-06 21:11:03,082 - INFO - Connecting to localhost:5432
+2025-08-06 21:12:11,159 - INFO - Database credentials was loaded from .env
+2025-08-06 21:12:11,159 - INFO - Connecting to localhost:5432
+2025-08-06 21:13:08,050 - INFO - Database credentials was loaded from .env
+2025-08-06 21:13:08,050 - INFO - Connecting to localhost:5432
+2025-08-06 21:13:56,992 - INFO - Database credentials was loaded from .env
+2025-08-06 21:13:56,993 - INFO - Connecting to localhost:5432
+2025-08-06 21:16:04,252 - INFO - Database credentials was loaded from .env
+2025-08-06 21:16:04,252 - INFO - Connecting to localhost:5432
+2025-08-06 21:17:22,364 - INFO - Database credentials was loaded from .env
+2025-08-06 21:17:22,364 - INFO - Connecting to None:None
+2025-08-06 21:17:39,658 - INFO - Database credentials was loaded from .env
+2025-08-06 21:17:39,658 - INFO - Connecting to None:None
+2025-08-06 21:19:38,441 - INFO - Database credentials was loaded from .env
+2025-08-06 21:19:38,441 - INFO - Connecting to localhost:5432
+2025-08-06 21:20:13,218 - INFO - Database credentials was loaded from .env
+2025-08-06 21:20:13,219 - INFO - Connecting to localhost:5432
+2025-08-06 21:20:18,090 - INFO - Database credentials was loaded from .env
+2025-08-06 21:20:18,090 - INFO - Connecting to localhost:5432
+2025-08-06 21:20:33,899 - INFO - Database credentials was loaded from .env
+2025-08-06 21:20:33,899 - INFO - Connecting to localhost:5432
+2025-08-06 21:20:42,789 - INFO - Database credentials was loaded from .env
+2025-08-06 21:20:42,789 - INFO - Connecting to localhost:5432
+2025-08-06 21:21:37,852 - INFO - Database credentials was loaded from .env
+2025-08-06 21:21:37,852 - INFO - Connecting to localhost:5432
+2025-08-06 21:22:17,323 - INFO - Database credentials was loaded from .env
+2025-08-06 21:22:17,323 - INFO - Connecting to localhost:5432
+2025-08-06 21:22:17,353 - INFO - Connected to localhost:5432
+2025-08-06 21:22:32,265 - INFO - Database credentials was loaded from .env
+2025-08-06 21:22:32,265 - INFO - Connecting to localhost:5432
+2025-08-06 21:22:32,296 - INFO - Connected to localhost:5432
+2025-08-06 21:22:57,020 - INFO - Database credentials was loaded from .env
+2025-08-06 21:22:57,020 - INFO - Connecting to localhost:5432
+2025-08-06 21:22:57,020 - INFO - Connected to localhost:5432
+2025-08-06 21:23:24,987 - INFO - Database credentials was loaded from .env
+2025-08-06 21:23:24,987 - INFO - Connecting to localhost:5432
+2025-08-06 21:23:24,988 - INFO - Connected to localhost:5432
+2025-08-06 21:23:55,566 - INFO - Database credentials was loaded from .env
+2025-08-06 21:23:55,566 - INFO - Connecting to localhost:5432
+2025-08-06 21:23:55,598 - INFO - Connected to localhost:5432
+2025-08-06 21:23:55,626 - INFO - Starting data loading process
+2025-08-06 21:23:55,628 - INFO - Database ozon_orders already exists
+2025-08-06 21:23:55,642 - INFO - Table 'orders' already exists
+2025-08-06 21:23:55,642 - INFO - Trying to load data from file ozon_orders.json
+2025-08-06 21:23:55,642 - INFO - Data loaded successfully. Count rows: 11
+2025-08-06 21:23:55,643 - INFO - Order with ID 123456 already exists in DB. Skipping.
+2025-08-06 21:23:55,644 - INFO - Order with ID 123457 already exists in DB. Skipping.
+2025-08-06 21:23:55,644 - INFO - Order with ID 123458 already exists in DB. Skipping.
+2025-08-06 21:23:55,644 - INFO - Order with ID 123459 already exists in DB. Skipping.
+2025-08-06 21:23:55,645 - INFO - Order with ID 123460 already exists in DB. Skipping.
+2025-08-06 21:23:55,645 - INFO - Order with ID 123461 already exists in DB. Skipping.
+2025-08-06 21:23:55,645 - INFO - Order with ID 123462 already exists in DB. Skipping.
+2025-08-06 21:23:55,645 - INFO - Order with ID 123463 already exists in DB. Skipping.
+2025-08-06 21:23:55,646 - INFO - Order with ID 123464 already exists in DB. Skipping.
+2025-08-06 21:23:55,646 - INFO - Order with ID 123465 already exists in DB. Skipping.
+2025-08-06 21:23:55,646 - INFO - Order with ID 123465 already exists in DB. Skipping.
+2025-08-06 21:23:55,646 - INFO - Data successfully loaded into DB. Processed records: 0. Skipped duplicates: 11
+2025-08-06 21:23:55,647 - INFO - Data loading process completed successfully. Processed: 0, Skipped duplicates: 11
+2025-08-06 21:23:55,647 - INFO - DB connection closed
+2025-08-06 21:24:42,031 - INFO - Database credentials was loaded from .env
+2025-08-06 21:24:42,031 - INFO - Connecting to localhost:5432
+2025-08-06 21:24:42,062 - INFO - Starting data loading process
+2025-08-06 21:24:42,064 - INFO - Database ozon_orders already exists
+2025-08-06 21:24:42,070 - INFO - Table 'orders' already exists
+2025-08-06 21:24:42,070 - INFO - Trying to load data from file ozon_orders.json
+2025-08-06 21:24:42,070 - INFO - Data loaded successfully. Count rows: 11
+2025-08-06 21:24:42,071 - INFO - Order with ID 123456 already exists in DB. Skipping.
+2025-08-06 21:24:42,071 - INFO - Order with ID 123457 already exists in DB. Skipping.
+2025-08-06 21:24:42,072 - INFO - Order with ID 123458 already exists in DB. Skipping.
+2025-08-06 21:24:42,072 - INFO - Order with ID 123459 already exists in DB. Skipping.
+2025-08-06 21:24:42,072 - INFO - Order with ID 123460 already exists in DB. Skipping.
+2025-08-06 21:24:42,072 - INFO - Order with ID 123461 already exists in DB. Skipping.
+2025-08-06 21:24:42,073 - INFO - Order with ID 123462 already exists in DB. Skipping.
+2025-08-06 21:24:42,073 - INFO - Order with ID 123463 already exists in DB. Skipping.
+2025-08-06 21:24:42,073 - INFO - Order with ID 123464 already exists in DB. Skipping.
+2025-08-06 21:24:42,073 - INFO - Order with ID 123465 already exists in DB. Skipping.
+2025-08-06 21:24:42,078 - WARNING - Cannot convert date: 2024-06-01T14:38:00. Using original string.
+2025-08-06 21:24:42,080 - INFO - Processed 1 records
+2025-08-06 21:24:42,080 - INFO - Data successfully loaded into DB. Processed records: 1. Skipped duplicates: 10
+2025-08-06 21:24:42,080 - INFO - Data loading process completed successfully. Processed: 1, Skipped duplicates: 10
+2025-08-06 21:24:42,080 - INFO - DB connection closed
+2025-08-06 21:41:21,463 - INFO - Database credentials was loaded from .env
+2025-08-06 21:41:21,463 - INFO - Connecting to localhost:5432
+2025-08-06 21:41:21,493 - INFO - Starting data loading process
+2025-08-06 21:41:21,495 - INFO - Database ozon_orders already exists
+2025-08-06 21:41:21,501 - INFO - Table 'orders' already exists
+2025-08-06 21:41:21,501 - INFO - Trying to load data from file ozon_orders.json
+2025-08-06 21:41:21,501 - INFO - Data loaded successfully. Count rows: 11
+2025-08-06 21:41:21,502 - INFO - Order with ID 123456 already exists in DB. Skipping.
+2025-08-06 21:41:21,502 - INFO - Order with ID 123457 already exists in DB. Skipping.
+2025-08-06 21:41:21,503 - INFO - Order with ID 123458 already exists in DB. Skipping.
+2025-08-06 21:41:21,503 - INFO - Order with ID 123459 already exists in DB. Skipping.
+2025-08-06 21:41:21,503 - INFO - Order with ID 123460 already exists in DB. Skipping.
+2025-08-06 21:41:21,503 - INFO - Order with ID 123461 already exists in DB. Skipping.
+2025-08-06 21:41:21,504 - INFO - Order with ID 123462 already exists in DB. Skipping.
+2025-08-06 21:41:21,504 - INFO - Order with ID 123463 already exists in DB. Skipping.
+2025-08-06 21:41:21,504 - INFO - Order with ID 123464 already exists in DB. Skipping.
+2025-08-06 21:41:21,505 - INFO - Order with ID 123465 already exists in DB. Skipping.
+2025-08-06 21:41:21,505 - INFO - Order with ID 1234777765 already exists in DB. Skipping.
+2025-08-06 21:41:21,505 - INFO - Data successfully loaded into DB. Processed records: 0. Skipped duplicates: 11
+2025-08-06 21:41:21,505 - INFO - Data loading process completed successfully. Processed: 0, Skipped duplicates: 11
+2025-08-06 21:41:21,505 - INFO - DB connection closed
